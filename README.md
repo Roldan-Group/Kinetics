@@ -1,6 +1,6 @@
 # Kinetics
 
-Kinetics2Matlab allows building Matlab inputs to calculate:
+Kinetics code allows building Matlab inputs to calculate:
 - thermodynamic properties of the different speces: Cp, H, S and G
 - reaction constants
 - constant temperature kinetics
@@ -12,6 +12,6 @@ according to the process described in the mechanisms included and the reaction c
 
 # Usage
 
-Prior to run Kinetics2Matlab
+Upon having Prior to run Kinetics2Matlab
 
 
