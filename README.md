@@ -21,5 +21,5 @@ Please cite [https://doi.org/10.1039/D1NA00015B](https://doi.org/10.1039/D1NA000
 
 # Case Study
 A detailed methodology and flow work is found on:
-- [https://doi.org/10.1039/D1NA00015B](https://doi.org/10.1039/D1NA00015B)
+- "[Kinetic and mechanistic analysis of NH3 decomposition on Ru(0001), Ru(111) and Ir(111) surfaces]"(https://doi.org/10.1039/D1NA00015B)
 
