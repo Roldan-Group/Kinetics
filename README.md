@@ -16,6 +16,7 @@ Upon having a plain input with few initial data (conditions, elementary reaction
 
 # License
 The software here described is licenced according to the LICENCE.md and it can be used upon recognition.
+
 Please cite [https://doi.org/10.1039/D1NA00015B](https://doi.org/10.1039/D1NA00015B).
 
 # Case Study
