@@ -16,7 +16,7 @@ Upon having a plain input with few initial data (conditions, elementary reaction
 
 ## License
 The software here described is licenced according to [GNU](https://github.com/Roldan-Group/Kinetics/blob/main/LICENSE.md).
-Please use this software upon recognition by citing [https://doi.org/10.1039/D1NA00015B](https://doi.org/10.1039/D1NA00015B).
+Please use it upon recognition by citing [https://doi.org/10.1039/D1NA00015B](https://doi.org/10.1039/D1NA00015B).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
