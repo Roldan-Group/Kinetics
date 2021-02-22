@@ -23,6 +23,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 If you want to contribute, here are excellent resources on:
 - best programming practice: https://gist.github.com/sloria/7001839.
 - commenting: https://realpython.com/python-comments-guide/
+
 Be sure to also add your name to the AUTHORS file so you get the credit deserved.
 
 
